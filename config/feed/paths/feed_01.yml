@@ -1,0 +1,26 @@
+# Here, place a map of domain key to path in the feed xml.
+# The file name must match the feed source name registered in config/feeds/sources.yml
+apartments:
+  - ["PhysicalProperty", "Property"]
+managements:
+  - ["PhysicalProperty", "Management"]
+apartment:
+  name:
+    - ["Identification", "MarketingName"]
+  latitude:
+    - ["Identification", "Latitude"]
+  longitude:
+    - ["Identification", "Longitude"]
+  street:
+    - ["Identification", "Address", "Address1"]
+  city:
+    - ["Identification", "Address", "City"]
+  state:
+    - ["Identification", "Address", "State"]
+  zip_code:
+    - ["Identification", "Address", "Zip"]
+  floorplans:
+    - ["Floorplan"]
+floorplan:
+  name:
+    - [""] # TODO

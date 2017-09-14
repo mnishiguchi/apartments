@@ -29,6 +29,7 @@ AllCops:
     - 'node_modules/**/*'
     - 'db/schema.rb'
     - 'bin/**/*'
+    - 'Guardfile'
 
 Layout/AlignHash:
   EnforcedLastArgumentHashStyle: ignore_implicit

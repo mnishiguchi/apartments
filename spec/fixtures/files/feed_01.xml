@@ -1,0 +1,1914 @@
+<PhysicalProperty>
+  <Management id="8196585">
+    <Name>Bainbridge Company</Name>
+    <Address>
+      <Address1 />
+      <City>Wellington</City>
+      <State>FL</State>
+      <Zip>33414</Zip>
+    </Address>
+    <Email />
+    <WebSite />
+  </Management>
+  <Management id="5355234">
+    <Name>TGM Communities</Name>
+    <Address>
+      <Address1 />
+      <City>Fishkill</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <Email />
+    <WebSite />
+  </Management>
+  <Property managementID="7654">
+    <Identification type="apartment" rentalType="market rate">
+      <PrimaryID>65090</PrimaryID>
+      <SecondaryID>1RK610251209</SecondaryID>
+      <General_ID>
+        <ID />
+        <Description />
+      </General_ID>
+      <MarketingName>Aspen Chase</MarketingName>
+      <OwnerLegalName>Aspen Chase</OwnerLegalName>
+      <Address>
+        <Address1>7105 Old Katy Road</Address1>
+        <City>Ventura</City>
+        <State>CA</State>
+        <Zip>77024</Zip>
+        <Country>N/A</Country>
+        <PO_Box>N/A</PO_Box>
+        <MailingAddress>N/A</MailingAddress>
+        <ShippingAddress>N/A</ShippingAddress>
+      </Address>
+      <Latitude>0</Latitude>
+      <Longitude>0</Longitude>
+      <DaylightSaving>false</DaylightSaving>
+      <WebSite>http://www.simpsonpropertygroup.com/apartments/austin-apartments/south-austin-apartments/ridgeview</WebSite>
+      <Phone>
+        <Number>7779695656</Number>
+        <Extension />
+      </Phone>
+      <Email>joien@erei.com</Email>
+    </Identification>
+    <Information>
+      <StructureType>standard</StructureType>
+      <BuildingCount>7</BuildingCount>
+      <UnitCount>387</UnitCount>
+      <NumberOfAcres>0</NumberOfAcres>
+      <YearBuilt>1997</YearBuilt>
+      <YearRemodeled>2003</YearRemodeled>
+      <AcquisitionDate month="" day="" year="" />
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Sunday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Monday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Tuesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Wednesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Thursday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>6:00 PM</CloseTime>
+        <Day>Friday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:00 AM</OpenTime>
+        <CloseTime>5:00 PM</CloseTime>
+        <Day>Saturday</Day>
+      </OfficeHour>
+      <ShortDescription>Apart from Disneyland - it's the happiest place on earth!</ShortDescription>
+      <LongDescription>Exquisite. Urban. Chic. Enter a world like no other. A world unmatched in the Houston area. Cheval at Memorial has arrived as the newest, most grand apartment community Houston has ever seen. Our Mediterranean-style architecture features towering pillars and huge arches that will make you feel like youre on vacation every day of the year. You are surrounded by endless amenities and tantilizing features while conveniently located near I-10, the 610 Loop, the Galleria and Memorial Park. Cheval at Memorial didnt create the art of living well, we merely perfected it.</LongDescription>
+      <DrivingDirections>From Downtown take I-10 West to the Washington exit. Make a right and follow to Old Katy Rd. (stay to the left). Were on your left.</DrivingDirections>
+      <LeaseLength> We offer multiple lease terms</LeaseLength>
+      <Parking type="covered lot">
+        <Assigned>true</Assigned>
+        <AssignedFee>free</AssignedFee>
+        <Spaces>0</Spaces>
+        <Comment>Additional spaces may be available for an additional fee.</Comment>
+      </Parking>
+      <Parking type="garage lot">
+        <Assigned>false</Assigned>
+        <AssignedFee>free</AssignedFee>
+        <Spaces>0</Spaces>
+        <Comment />
+      </Parking>
+      <Services nearest="false">
+        <Name>bus</Name>
+        <Detail />
+        <DistanceTo />
+        <Comment />
+      </Services>
+    </Information>
+    <Policy>
+      <Pet type="pet policy" allowed="true">
+        <Comment>Family pets are welcome. Pet must be no larger than 35 pounds in weight and breed restrictions apply.</Comment>
+        <MaxCount>0</MaxCount>
+        <Deposit />
+        <Fee />
+        <Rent />
+        <Weight>0</Weight>
+        <FeeRange />
+        <Restrictions />
+        <PetCare>false</PetCare>
+      </Pet>
+      <Pet type="cat" allowed="true">
+        <Comment>test</Comment>
+        <MaxCount>0</MaxCount>
+        <Deposit />
+        <Fee />
+        <Rent />
+        <Weight>0</Weight>
+        <FeeRange />
+        <Restrictions>test</Restrictions>
+        <PetCare>false</PetCare>
+      </Pet>
+      <Pet type="exotic animals" allowed="false">
+        <Comment>test</Comment>
+        <MaxCount>0</MaxCount>
+        <Deposit />
+        <Fee />
+        <Rent />
+        <Weight>0</Weight>
+        <FeeRange />
+        <Restrictions>test</Restrictions>
+        <PetCare>false</PetCare>
+      </Pet>
+    </Policy>
+    <Floorplan id="267966" type="internal">
+      <Name>The Ibiza</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="740" max="800" />
+      <MarketRent avg="0" min="1015" max="1025" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>1000.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities>
+        <Alarm>True</Alarm>
+        <Balcony>True</Balcony>
+        <CableSat>True</CableSat>
+        <DishWasher>True</DishWasher>
+        <Disposal>True</Disposal>
+        <Garage>True</Garage>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="267967" type="internal">
+      <Name>The Marbella</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="812" max="812" />
+      <MarketRent avg="0" min="900" max="900" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>500.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities>
+        <Balcony>True</Balcony>
+        <DishWasher>True</DishWasher>
+        <Garage>True</Garage>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="317317" type="internal">
+      <Name>ST. Thomas</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="925" max="925" />
+      <MarketRent avg="0" min="900" max="995" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities>
+        <View>True</View>
+        <Washer>True</Washer>
+        <WheelChair>True</WheelChair>
+        <WD_Hookup>True</WD_Hookup>
+        <WindowCoverings>True</WindowCoverings>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="267968" type="internal">
+      <Name>The Majorca</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>3</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1012" max="1012" />
+      <MarketRent avg="0" min="1275" max="1275" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="267969" type="internal">
+      <Name>The Capri</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1025" max="1025" />
+      <MarketRent avg="0" min="1315" max="1315" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="267970" type="internal">
+      <Name>The Cannes</Name>
+      <UnitCount>-1</UnitCount>
+      <UnitsAvailable>-1</UnitsAvailable>
+      <DisplayedUnitsAvailable>-2</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1102" max="1102" />
+      <MarketRent avg="0" min="1395" max="1395" />
+      <EffectiveRent avg="0" min="1" max="1" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="267971" type="internal">
+      <Name>The Antibes</Name>
+      <UnitCount>-1</UnitCount>
+      <UnitsAvailable>-1</UnitsAvailable>
+      <DisplayedUnitsAvailable>-2</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1133" max="1133" />
+      <MarketRent avg="0" min="1445" max="1445" />
+      <EffectiveRent avg="0" min="1" max="1" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="267972" type="internal">
+      <Name>The St. Tropez</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1195" max="1195" />
+      <MarketRent avg="0" min="1495" max="1500" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="302546" type="internal">
+      <Name>The Equestrian</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>-1</DisplayedUnitsAvailable>
+      <TotalRoomCount>5</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>3</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1070" max="1155" />
+      <MarketRent avg="0" min="1250" max="1550" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <AirCon>
+        <Type>central</Type>
+        <Description />
+      </AirCon>
+      <Fireplace>
+        <Type>unspecified</Type>
+        <Description />
+      </Fireplace>
+      <Heat>
+        <Type>unspecified</Type>
+        <Description />
+      </Heat>
+      <Range>
+        <Type>unspecified</Type>
+        <Description />
+      </Range>
+      <Amenities>
+        <AdditionalStorage>True</AdditionalStorage>
+        <AirConditioner>True</AirConditioner>
+        <Balcony>True</Balcony>
+        <CableSat>True</CableSat>
+        <Carport>True</Carport>
+        <CeilingFan>True</CeilingFan>
+        <Courtyard>True</Courtyard>
+        <DishWasher>True</DishWasher>
+        <Disposal>True</Disposal>
+        <Fireplace>True</Fireplace>
+        <LargeClosets>True</LargeClosets>
+        <Microwave>True</Microwave>
+        <Patio>True</Patio>
+        <PrivateBalcony>True</PrivateBalcony>
+        <Refrigerator>True</Refrigerator>
+        <View>True</View>
+        <WD_Hookup>True</WD_Hookup>
+      </Amenities>
+    </Floorplan>
+    <Amenities>
+      <Community>
+        <Availability24Hours>true</Availability24Hours>
+        <BasketballCourt>true</BasketballCourt>
+        <BusinessCenter>true</BusinessCenter>
+        <ClubHouse>true</ClubHouse>
+        <Concierge>true</Concierge>
+        <CoverPark>true</CoverPark>
+        <FitnessCenter>true</FitnessCenter>
+        <FreeWeights>true</FreeWeights>
+        <Garage type="attached">true</Garage>
+        <GroupExcercise>true</GroupExcercise>
+        <HighSpeed>true</HighSpeed>
+        <Library>true</Library>
+        <OnSiteMaintenance>true</OnSiteMaintenance>
+        <OnSiteManagement>true</OnSiteManagement>
+        <PacakageReceiving>true</PacakageReceiving>
+        <Pool>true</Pool>
+        <PlayGround>true</PlayGround>
+        <Racquetball>true</Racquetball>
+        <Sauna>true</Sauna>
+        <ShortTermLease>true</ShortTermLease>
+        <Spa>true</Spa>
+        <StorageSpace>true</StorageSpace>
+        <Sundeck>true</Sundeck>
+        <TennisCourt>true</TennisCourt>
+        <Transportation>true</Transportation>
+        <Vintage>true</Vintage>
+        <VolleyballCourt>true</VolleyballCourt>
+      </Community>
+      <Floorplan>
+        <AdditionalStorage>True</AdditionalStorage>
+        <AirConditioner>True</AirConditioner>
+        <Balcony>True</Balcony>
+        <CableSat>True</CableSat>
+        <Carport>True</Carport>
+        <CeilingFan>True</CeilingFan>
+        <Courtyard>True</Courtyard>
+        <DishWasher>True</DishWasher>
+        <Disposal>True</Disposal>
+        <Fireplace>True</Fireplace>
+        <LargeClosets>True</LargeClosets>
+        <Microwave>True</Microwave>
+        <Patio>True</Patio>
+        <PrivateBalcony>True</PrivateBalcony>
+        <Refrigerator>True</Refrigerator>
+        <View>True</View>
+        <WD_Hookup>True</WD_Hookup>
+      </Floorplan>
+    </Amenities>
+    <Utility majorUtility="some">
+      <AirCon>false</AirCon>
+      <BroadbandInternet>false</BroadbandInternet>
+      <Cable>true</Cable>
+      <Electric>true</Electric>
+      <Gas>false</Gas>
+      <Heat>false</Heat>
+      <HotWater>true</HotWater>
+      <Sewer>true</Sewer>
+      <Telephone>false</Telephone>
+      <Trash>true</Trash>
+      <Water>false</Water>
+      <UtilityPortionIncluded>0</UtilityPortionIncluded>
+    </Utility>
+    <File id="223" active="True">
+      <Type>photo</Type>
+      <Name>Exterior</Name>
+      <Caption>Exterior</Caption>
+      <Format>JPG</Format>
+      <Src>http://static.propertylinkonline.com/templates/Media/7654/65090/pic_p_f67ea82f-e9cd-4265-82aa-5671148236c9.JPG</Src>
+      <Width>3504</Width>
+      <Height>2336</Height>
+      <Rank>1</Rank>
+      <AffiliateID>65090</AffiliateID>
+    </File>
+    <File id="19" active="True">
+      <Type>photo</Type>
+      <Name>Tree View</Name>
+      <Caption>Tree View</Caption>
+      <Format>jpg</Format>
+      <Src>http://static.propertylinkonline.com/Templates/Media/7654/65090/pic_p_e7935e7a-40c4-47db-88c0-71c274a6d310.jpg</Src>
+      <Width>1024</Width>
+      <Height>575</Height>
+      <Rank>2</Rank>
+      <AffiliateID>65090</AffiliateID>
+    </File>
+  </Property>
+  <Property managementID="8108">
+    <Identification type="apartment" rentalType="unspecified">
+      <PrimaryID>65568</PrimaryID>
+      <SecondaryID>65568</SecondaryID>
+      <General_ID>
+        <ID />
+        <Description />
+      </General_ID>
+      <MarketingName>Avalon at Gallery Place</MarketingName>
+      <Address>
+        <Address1>770 5th Street NW</Address1>
+        <City>Washington</City>
+        <State>DC</State>
+        <Zip>20001</Zip>
+        <Country>N/A</Country>
+        <PO_Box>N/A</PO_Box>
+        <MailingAddress>N/A</MailingAddress>
+        <ShippingAddress>N/A</ShippingAddress>
+      </Address>
+      <Latitude>0</Latitude>
+      <Longitude>0</Longitude>
+      <DaylightSaving>false</DaylightSaving>
+      <WebSite>http://avalongalleryplace.com</WebSite>
+      <Phone>
+        <Number>8664305119</Number>
+        <Extension />
+      </Phone>
+      <Email>AvalonatGalleryPlace@newhome1.com</Email>
+    </Identification>
+    <Information>
+      <StructureType>standard</StructureType>
+      <UnitCount>203</UnitCount>
+      <NumberOfAcres>0</NumberOfAcres>
+      <YearBuilt>2003</YearBuilt>
+      <AcquisitionDate month="" day="" year="" />
+      <OfficeHour>
+        <OpenTime>9:30 AM</OpenTime>
+        <CloseTime>6:30 PM</CloseTime>
+        <Day>Tuesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:30 AM</OpenTime>
+        <CloseTime>6:30 PM</CloseTime>
+        <Day>Wednesday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>9:30 AM</OpenTime>
+        <CloseTime>6:30 PM</CloseTime>
+        <Day>Thursday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:30 AM</OpenTime>
+        <CloseTime>5:30 PM</CloseTime>
+        <Day>Friday</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>8:30 AM</OpenTime>
+        <CloseTime>5:30 PM</CloseTime>
+        <Day>Saturday</Day>
+      </OfficeHour>
+      <ShortDescription>Washington DC apartments in Chinatown's Gallery Place! </ShortDescription>
+      <LongDescription>Avalon Gallery Place features studio, one, two, and three bedroom apartment homes just a block away from the Gallery Place/Chinatown Metro Station and the Verizon Center. Avalon Gallery Place apartments feature full size washers and dryers, kitchens with granite counters, gas stoves, and spacious closets.  The Community includes a state of the art fitness center with Fitness On Demand, a rooftop terrace with views of DC's iconic landmarks, gas grills and free WiFi in the common areas.</LongDescription>
+      <DrivingDirections />
+      <LeaseLength>2-12 months</LeaseLength>
+      <Parking type="garage lot">
+        <Assigned>true</Assigned>
+        <AssignedFee>free</AssignedFee>
+        <SpaceFee>195.00</SpaceFee>
+        <Spaces>0</Spaces>
+        <Comment>Private underground parking</Comment>
+      </Parking>
+    </Information>
+    <Policy>
+      <Pet type="Cat" allowed="true">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Deposit>0</Deposit>
+        <Fee>500.00</Fee>
+        <Rent>50.00</Rent>
+        <Weight>0</Weight>
+        <FeeRange min="0" max="0" />
+        <Restrictions>Pet and breed restrictions apply.</Restrictions>
+        <PetCare>true</PetCare>
+      </Pet>
+      <Pet type="Dog" allowed="true">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Deposit>0</Deposit>
+        <Fee>500.00</Fee>
+        <Rent>50.00</Rent>
+        <Weight>0</Weight>
+        <FeeRange min="0" max="0" />
+        <Restrictions>Pet and breed restrictions apply.</Restrictions>
+        <PetCare>true</PetCare>
+      </Pet>
+    </Policy>
+    <Floorplan id="604672" type="internal">
+      <Name>S1</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>1</TotalRoomCount>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="563" max="563" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604673" type="internal">
+      <Name>S1P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>1</TotalRoomCount>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="563" max="563" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604644" type="internal">
+      <Name>A1</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="606" max="606" />
+      <MarketRent avg="0" min="2155" max="2190" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604645" type="internal">
+      <Name>A2</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="625" max="625" />
+      <MarketRent avg="0" min="2165" max="2195" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604646" type="internal">
+      <Name>A3</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="718" max="718" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604647" type="internal">
+      <Name>A4</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="728" max="728" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604648" type="internal">
+      <Name>A4P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="728" max="728" />
+      <MarketRent avg="0" min="2585" max="2585" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604649" type="internal">
+      <Name>A5</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="753" max="753" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604650" type="internal">
+      <Name>A5P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="753" max="753" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604651" type="internal">
+      <Name>A6</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="759" max="759" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604652" type="internal">
+      <Name>A6P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="759" max="759" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604653" type="internal">
+      <Name>A7</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="809" max="809" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604654" type="internal">
+      <Name>A7P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="809" max="809" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604655" type="internal">
+      <Name>A8</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="827" max="827" />
+      <MarketRent avg="0" min="2400" max="2460" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604656" type="internal">
+      <Name>A9D</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>2</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>1.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1246" max="1246" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604657" type="internal">
+      <Name>B1</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1044" max="1044" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604658" type="internal">
+      <Name>B1P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1044" max="1044" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604659" type="internal">
+      <Name>B2</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1075" max="1075" />
+      <MarketRent avg="0" min="3745" max="3745" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604660" type="internal">
+      <Name>B3</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1075" max="1096" />
+      <MarketRent avg="0" min="3685" max="3685" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604661" type="internal">
+      <Name>B3P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1096" max="1096" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604662" type="internal">
+      <Name>B4</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1110" max="1110" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604663" type="internal">
+      <Name>B4P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1110" max="1110" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604664" type="internal">
+      <Name>B5</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1119" max="1119" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604665" type="internal">
+      <Name>B5P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1119" max="1119" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604666" type="internal">
+      <Name>B6</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1163" max="1163" />
+      <MarketRent avg="0" min="3775" max="3775" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604667" type="internal">
+      <Name>B6P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1163" max="1163" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604668" type="internal">
+      <Name>B7</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1478" max="1478" />
+      <MarketRent avg="0" min="3820" max="4140" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Deposit type="Security Deposit">
+        <Amount>350.00</Amount>
+        <PercentRefundable>0.00</PercentRefundable>
+        <PortionRefundable>0.00</PortionRefundable>
+      </Deposit>
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604669" type="internal">
+      <Name>B7P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>4</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1478" max="1478" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604670" type="internal">
+      <Name>C1P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>5</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>3</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1475" max="1475" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Floorplan id="604671" type="internal">
+      <Name>C2P</Name>
+      <UnitCount>0</UnitCount>
+      <UnitsAvailable>0</UnitsAvailable>
+      <DisplayedUnitsAvailable>0</DisplayedUnitsAvailable>
+      <TotalRoomCount>5</TotalRoomCount>
+      <Room type="bedroom">
+        <Count>3</Count>
+        <Comment>Comment</Comment>
+        <Size>0</Size>
+      </Room>
+      <Room type="bathroom">
+        <Count>2.00</Count>
+        <Comment>max</Comment>
+        <Size>0</Size>
+      </Room>
+      <SquareFeet avg="0" min="1972" max="1972" />
+      <MarketRent avg="0" min="0" max="0" />
+      <EffectiveRent avg="0" min="0" max="0" />
+      <Amenities />
+    </Floorplan>
+    <Amenities>
+      <Community>
+        <FitnessCenter>true</FitnessCenter>
+        <Gate>true</Gate>
+        <HighSpeed>true</HighSpeed>
+        <OnSiteMaintenance>true</OnSiteMaintenance>
+        <OnSiteManagement>true</OnSiteManagement>
+        <PacakageReceiving>true</PacakageReceiving>
+        <ShortTermLease>true</ShortTermLease>
+        <StorageSpace>true</StorageSpace>
+        <Transportation>true</Transportation>
+      </Community>
+      <Floorplan />
+    </Amenities>
+    <Utility majorUtility="some">
+      <AirCon>false</AirCon>
+      <BroadbandInternet>false</BroadbandInternet>
+      <Cable>false</Cable>
+      <Electric>false</Electric>
+      <Gas>false</Gas>
+      <Heat>false</Heat>
+      <HotWater>false</HotWater>
+      <Sewer>false</Sewer>
+      <Telephone>false</Telephone>
+      <Trash>false</Trash>
+      <Water>false</Water>
+      <UtilityPortionIncluded>0</UtilityPortionIncluded>
+    </Utility>
+    <File id="466250" active="True">
+      <Type>logo</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/11810811/1191x480/11810811.png</Src>
+      <Width>1191</Width>
+      <Height>480</Height>
+      <Rank>1</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583916" active="True">
+      <Type>photo</Type>
+      <Name>Roof Top Terrace</Name>
+      <Caption>Roof Top Terrace</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098096/640x480/13098096.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>1</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583917" active="True">
+      <Type>photo</Type>
+      <Name>Exterior Building</Name>
+      <Caption>Exterior Building</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098097/640x480/13098097.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>2</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583918" active="True">
+      <Type>photo</Type>
+      <Name>BBQ and Picnic Area</Name>
+      <Caption>BBQ and Picnic Area</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098098/640x480/13098098.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>3</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583919" active="True">
+      <Type>photo</Type>
+      <Name>Sun Deck</Name>
+      <Caption>Sun Deck</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098099/640x480/13098099.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>4</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583920" active="True">
+      <Type>photo</Type>
+      <Name>Community Lobby</Name>
+      <Caption>Community Lobby</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098100/640x480/13098100.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>5</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583921" active="True">
+      <Type>photo</Type>
+      <Name>Resident Lounge</Name>
+      <Caption>Resident Lounge</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098103/640x480/13098103.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>6</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583922" active="True">
+      <Type>photo</Type>
+      <Name>Business Center</Name>
+      <Caption>Business Center</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098105/640x480/13098105.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>7</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583923" active="True">
+      <Type>photo</Type>
+      <Name>Fitness Center</Name>
+      <Caption>Fitness Center</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098109/640x480/13098109.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>8</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583924" active="True">
+      <Type>photo</Type>
+      <Name>Kitchen</Name>
+      <Caption>Kitchen</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098111/640x480/13098111.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>9</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583925" active="True">
+      <Type>photo</Type>
+      <Name>Dining Area</Name>
+      <Caption>Dining Area</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098112/640x480/13098112.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>10</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583926" active="True">
+      <Type>photo</Type>
+      <Name>Living Room</Name>
+      <Caption>Living Room</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098114/640x480/13098114.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>11</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583927" active="True">
+      <Type>photo</Type>
+      <Name>Master Bedroom</Name>
+      <Caption>Master Bedroom</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098116/640x480/13098116.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>12</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583928" active="True">
+      <Type>photo</Type>
+      <Name>Guest Bedroom</Name>
+      <Caption>Guest Bedroom</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098117/640x480/13098117.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>13</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583929" active="True">
+      <Type>photo</Type>
+      <Name>Bathroom</Name>
+      <Caption>Bathroom</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098118/640x480/13098118.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>14</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="583930" active="True">
+      <Type>photo</Type>
+      <Name>View of National Building Museum</Name>
+      <Caption>View of National Building Museum</Caption>
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/13098119/640x480/13098119.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>15</Rank>
+      <AffiliateID>65568</AffiliateID>
+    </File>
+    <File id="489348" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197833/640x480/14197833.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>1</Rank>
+      <AffiliateID>604672</AffiliateID>
+    </File>
+    <File id="610588" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/37566029/1300x1300/37566029.jpg</Src>
+      <Width>1300</Width>
+      <Height>1300</Height>
+      <Rank>2</Rank>
+      <AffiliateID>604672</AffiliateID>
+    </File>
+    <File id="610589" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/37566028/1300x1300/37566028.jpg</Src>
+      <Width>1300</Width>
+      <Height>1300</Height>
+      <Rank>3</Rank>
+      <AffiliateID>604672</AffiliateID>
+    </File>
+    <File id="489349" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197834/640x480/14197834.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>4</Rank>
+      <AffiliateID>604673</AffiliateID>
+    </File>
+    <File id="610590" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/37566032/1300x1300/37566032.jpg</Src>
+      <Width>1300</Width>
+      <Height>1300</Height>
+      <Rank>5</Rank>
+      <AffiliateID>604673</AffiliateID>
+    </File>
+    <File id="610591" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/37566031/1300x1300/37566031.jpg</Src>
+      <Width>1300</Width>
+      <Height>1300</Height>
+      <Rank>6</Rank>
+      <AffiliateID>604673</AffiliateID>
+    </File>
+    <File id="489320" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197805/640x480/14197805.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>7</Rank>
+      <AffiliateID>604644</AffiliateID>
+    </File>
+    <File id="489321" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197806/640x480/14197806.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>8</Rank>
+      <AffiliateID>604645</AffiliateID>
+    </File>
+    <File id="489322" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197807/640x480/14197807.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>9</Rank>
+      <AffiliateID>604646</AffiliateID>
+    </File>
+    <File id="489323" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197808/640x480/14197808.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>10</Rank>
+      <AffiliateID>604647</AffiliateID>
+    </File>
+    <File id="489324" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197809/640x480/14197809.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>11</Rank>
+      <AffiliateID>604648</AffiliateID>
+    </File>
+    <File id="489325" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197810/640x480/14197810.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>12</Rank>
+      <AffiliateID>604649</AffiliateID>
+    </File>
+    <File id="489326" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197811/640x480/14197811.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>13</Rank>
+      <AffiliateID>604650</AffiliateID>
+    </File>
+    <File id="489327" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197812/640x480/14197812.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>14</Rank>
+      <AffiliateID>604651</AffiliateID>
+    </File>
+    <File id="489328" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197813/640x480/14197813.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>15</Rank>
+      <AffiliateID>604652</AffiliateID>
+    </File>
+    <File id="489329" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197814/640x480/14197814.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>16</Rank>
+      <AffiliateID>604653</AffiliateID>
+    </File>
+    <File id="489330" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197815/640x480/14197815.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>17</Rank>
+      <AffiliateID>604654</AffiliateID>
+    </File>
+    <File id="489331" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197816/640x480/14197816.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>18</Rank>
+      <AffiliateID>604655</AffiliateID>
+    </File>
+    <File id="489332" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197817/640x480/14197817.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>19</Rank>
+      <AffiliateID>604656</AffiliateID>
+    </File>
+    <File id="489333" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197818/640x480/14197818.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>20</Rank>
+      <AffiliateID>604657</AffiliateID>
+    </File>
+    <File id="489334" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197819/640x480/14197819.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>21</Rank>
+      <AffiliateID>604658</AffiliateID>
+    </File>
+    <File id="489335" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197820/640x480/14197820.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>22</Rank>
+      <AffiliateID>604659</AffiliateID>
+    </File>
+    <File id="489336" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197821/640x480/14197821.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>23</Rank>
+      <AffiliateID>604660</AffiliateID>
+    </File>
+    <File id="489337" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197822/640x480/14197822.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>24</Rank>
+      <AffiliateID>604661</AffiliateID>
+    </File>
+    <File id="489338" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197823/640x480/14197823.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>25</Rank>
+      <AffiliateID>604662</AffiliateID>
+    </File>
+    <File id="489339" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197824/640x480/14197824.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>26</Rank>
+      <AffiliateID>604663</AffiliateID>
+    </File>
+    <File id="489340" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197825/640x480/14197825.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>27</Rank>
+      <AffiliateID>604664</AffiliateID>
+    </File>
+    <File id="489341" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197826/640x480/14197826.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>28</Rank>
+      <AffiliateID>604665</AffiliateID>
+    </File>
+    <File id="489342" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197827/640x480/14197827.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>29</Rank>
+      <AffiliateID>604666</AffiliateID>
+    </File>
+    <File id="489343" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197828/640x480/14197828.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>30</Rank>
+      <AffiliateID>604667</AffiliateID>
+    </File>
+    <File id="489344" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197829/640x480/14197829.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>31</Rank>
+      <AffiliateID>604668</AffiliateID>
+    </File>
+    <File id="489345" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197830/640x480/14197830.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>32</Rank>
+      <AffiliateID>604669</AffiliateID>
+    </File>
+    <File id="489346" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197831/640x480/14197831.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>33</Rank>
+      <AffiliateID>604670</AffiliateID>
+    </File>
+    <File id="489347" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>png</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/14197832/640x480/14197832.png</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>34</Rank>
+      <AffiliateID>604671</AffiliateID>
+    </File>
+    <File id="610586" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/37566025/1300x1300/37566025.jpg</Src>
+      <Width>1300</Width>
+      <Height>1300</Height>
+      <Rank>35</Rank>
+      <AffiliateID>604671</AffiliateID>
+    </File>
+    <File id="610587" active="True">
+      <Type>floorplan</Type>
+      <Name />
+      <Caption />
+      <Format>jpg</Format>
+      <Src>http://capi.myleasestar.com/v2/dimg/37566024/1300x1300/37566024.jpg</Src>
+      <Width>1300</Width>
+      <Height>1300</Height>
+      <Rank>36</Rank>
+      <AffiliateID>604671</AffiliateID>
+    </File>
+  </Property>
+</PhysicalProperty>

@@ -45,6 +45,15 @@ gem "jquery-rails"
 group :development, :test do
   gem "capybara", "~> 2.13"
   gem "selenium-webdriver"
+  gem "rspec-rails"
+  gem "shoulda-matchers", git: "https://github.com/thoughtbot/shoulda-matchers.git", branch: "rails-5"
+  gem "factory_girl_rails"
+  gem "pry"
+  gem "pry-byebug"
+  gem "pry-rails"
+  gem "database_cleaner"
+  gem "guard-rspec", require: false
+  # gem "coveralls", require: false
 end
 
 group :development do
@@ -58,9 +67,6 @@ group :development do
   gem "annotate"
   gem "guard"
   gem "guard-minitest"
-  gem "pry"
-  gem "pry-byebug"
-  gem "pry-rails"
   gem "rails-erd"
 end
 

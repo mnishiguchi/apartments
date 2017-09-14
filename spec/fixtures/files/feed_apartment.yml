@@ -1,0 +1,156 @@
+---
+managementID: '7654'
+Identification:
+  type: apartment
+  PrimaryID: '65090'
+  SecondaryID: 1RK610251209
+  MarketingName: White House
+  OwnerLegalName: White House
+  Address:
+    Address1: 1600 Pennsylvania Ave NW
+    City: Wasington
+    State: DC
+    Zip: '20001'
+    Country: N/A
+    PO_Box: N/A
+  Latitude: 38.8977
+  Longitude: -77.0365
+  WebSite: https://en.wikipedia.org/wiki/White_House
+  Phone:
+    Number: '7779695656'
+    Extension:
+  Email: info@example.com
+Information:
+  StructureType: standard
+  BuildingCount: '7'
+  UnitCount: '387'
+  NumberOfAcres: '0'
+  YearBuilt: '1997'
+  YearRemodeled: '2003'
+  AcquisitionDate:
+    month: ''
+    day: ''
+    year: ''
+  OfficeHour:
+  - OpenTime: 9:00 AM
+    CloseTime: 5:00 PM
+    Day: Sunday
+  - OpenTime: 9:00 AM
+    CloseTime: 5:00 PM
+    Day: Monday
+  - OpenTime: 9:00 AM
+    CloseTime: 5:00 PM
+    Day: Tuesday
+  - OpenTime: 9:00 AM
+    CloseTime: 5:00 PM
+    Day: Wednesday
+  - OpenTime: 9:00 AM
+    CloseTime: 6:00 PM
+    Day: Thursday
+  - OpenTime: 9:00 AM
+    CloseTime: 6:00 PM
+    Day: Friday
+  - OpenTime: 9:00 AM
+    CloseTime: 5:00 PM
+    Day: Saturday
+  ShortDescription: Apart from Disneyland - it's the happiest place on earth!
+  LongDescription: Exquisite. Urban. Chic. Enter a world like no other.
+  Parking:
+  - type: covered lot
+    Assigned: 'true'
+    AssignedFee: free
+    Spaces: '0'
+    Comment: Additional spaces may be available for an additional fee.
+  - type: garage lot
+    Assigned: 'false'
+    AssignedFee: free
+    Spaces: '0'
+    Comment:
+  Services:
+    nearest: 'false'
+    Name: bus
+    Detail:
+    DistanceTo:
+    Comment:
+Policy:
+  Pet:
+  - type: pet policy
+    allowed: 'true'
+    Comment: Family pets are welcome. Pet must be no larger than 35 pounds in weight
+      and breed restrictions apply.
+    MaxCount: '0'
+    Deposit:
+    Fee:
+    Rent:
+    Weight: '0'
+    FeeRange:
+    Restrictions:
+    PetCare: 'false'
+  - type: cat
+    allowed: 'true'
+    Comment: test
+    MaxCount: '0'
+    Deposit:
+    Fee:
+    Rent:
+    Weight: '0'
+    FeeRange:
+    Restrictions: test
+    PetCare: 'false'
+  - type: exotic animals
+    allowed: 'false'
+    Comment: test
+    MaxCount: '0'
+    Deposit:
+    Fee:
+    Rent:
+    Weight: '0'
+    FeeRange:
+    Restrictions: test
+    PetCare: 'false'
+Floorplan:
+- id: '267966'
+  type: internal
+  Name: The Ibiza
+  UnitCount: '0'
+  UnitsAvailable: '0'
+  DisplayedUnitsAvailable: "-1"
+  TotalRoomCount: '2'
+  Room:
+  - type: bedroom
+    Count: '1'
+    Comment: Comment
+    Size: '0'
+  - type: bathroom
+    Count: '1.00'
+    Comment: max
+    Size: '0'
+  SquareFeet:
+    avg: '0'
+    min: '740'
+    max: '800'
+  MarketRent:
+    avg: '0'
+    min: '1015'
+    max: '1025'
+  EffectiveRent:
+    avg: '0'
+    min: '0'
+    max: '0'
+  Deposit:
+    type: Security Deposit
+    Amount: '1000.00'
+    PercentRefundable: '0.00'
+    PortionRefundable: '0.00'
+  Amenities:
+    Alarm: 'True'
+    Balcony: 'True'
+    CableSat: 'True'
+    DishWasher: 'True'
+    Disposal: 'True'
+    Garage: 'True'
+File:
+- Name: Exterior
+  Caption: Exterior
+  Format: JPG
+  Src: https://en.wikipedia.org/wiki/File:White_House_north_and_south_sides.jpg

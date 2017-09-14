@@ -1,0 +1,19 @@
+# Add a list of feed sources here. The top-level keys must match feed source names.
+feed_01:
+  url: example.com/01
+feed_02:
+  url: example.com/02
+feed_03:
+  url: example.com/03
+feed_04:
+  url: example.com/04
+feed_05:
+  url: example.com/05
+feed_06:
+  url: example.com/06
+feed_07:
+  url: example.com/07
+feed_08:
+  url: example.com/08
+feed_09:
+  url: example.com/09
