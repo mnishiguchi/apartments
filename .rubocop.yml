@@ -7,9 +7,7 @@ AllCops:
   Include:
     - 'app/**/*.rb'
     - 'config/**/*.rb'
-    - 'db/migrate/**/*.rb'
     - 'db/seeds/**/*.rb'
-    - 'db/table_seeds/**/*.rb'
     - 'db/seeds.rb'
     - 'lib/**/*.rb'
     - 'lib/**/*.rake'
@@ -20,15 +18,21 @@ AllCops:
     - 'Rakefile'
     - 'Brewfile'
   Exclude:
+    - 'db/migrate/**/*.rb'
     - 'db/feed_sources/*'
     - 'db/feeds/**/*'
+    - 'db/migrate/**/*.rb'
+    - 'db/schema.rb'
     - 'lib/feeds/**/*'
     - 'vendor/**/*'
     - 'spec/fixtures/**/*'
+    - 'spec/rails_helper.rb'
+    - 'spec/spec_helper.rb'
     - 'test/fixtures/**/*'
     - 'node_modules/**/*'
-    - 'db/schema.rb'
     - 'bin/**/*'
+    - 'Guardfile'
+    - 'test/test_helper.rb'
 
 Layout/AlignHash:
   EnforcedLastArgumentHashStyle: ignore_implicit
@@ -73,8 +77,7 @@ Style/BlockDelimiters:
     - 'spec/**/*_spec.rb'
 
 Style/ClassAndModuleChildren:
-  Exclude:
-    - 'app/controllers/api/**/*.rb'
+  Enabled: false
 
 Style/Documentation:
   Enabled: false

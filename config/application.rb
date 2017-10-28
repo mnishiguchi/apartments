@@ -22,6 +22,7 @@ module Apartments
       g.stylesheets     false
       g.javascripts     false
       g.helper          false
+      g.factory_bot     true
     end
   end
 end

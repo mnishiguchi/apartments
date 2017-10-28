@@ -42,9 +42,33 @@ gem "jbuilder", "~> 2.5"
 gem "bootstrap", "~> 4.0.0.alpha6"
 gem "jquery-rails"
 
+# HTTP
+gem "faraday"
+
+# Run any code in parallel Processes
+gem "parallel"
+
+# Admin dashboard
+gem "administrate"
+
+gem "geocoder"
+
 group :development, :test do
   gem "capybara", "~> 2.13"
   gem "selenium-webdriver"
+
+  gem "database_cleaner"
+  gem "dotenv-rails"
+  gem "factory_bot_rails"
+  gem "faker"
+  gem "guard-rspec", require: false
+  gem "pry-byebug"
+  gem "pry-rails"
+  gem "pry"
+  gem "rspec-rails"
+  gem "shoulda-matchers", git: "https://github.com/thoughtbot/shoulda-matchers.git", branch: "rails-5"
+  gem "vcr"
+  gem "webmock"
 end
 
 group :development do
@@ -56,11 +80,6 @@ group :development do
   gem "spring-watcher-listen", "~> 2.0.0"
 
   gem "annotate"
-  gem "guard"
-  gem "guard-minitest"
-  gem "pry"
-  gem "pry-byebug"
-  gem "pry-rails"
   gem "rails-erd"
 end
 
