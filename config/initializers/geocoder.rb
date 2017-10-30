@@ -2,7 +2,7 @@ Geocoder.configure(
   # Geocoding options
   timeout: 3,                 # geocoding service timeout (secs)
   lookup: :mapzen,            # name of geocoding service (symbol)
-  api_key: ENV["MAPZEN_API_KEY"],  # API key for geocoding service
+  api_key: ENV["MAPZEN_API_KEY"], # API key for geocoding service
   ip_lookup: :freegeoip,      # name of IP address geocoding service (symbol)
   language: :en,              # ISO-639 language code
   use_https: false,           # use HTTPS for lookup requests? (if supported)
