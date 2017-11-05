@@ -3,6 +3,7 @@
 # Table name: locations
 #
 #  id            :integer          not null, primary key
+#  layer         :string
 #  latitude      :decimal(, )
 #  longitude     :decimal(, )
 #  address_1     :string
@@ -19,15 +20,15 @@
 
 FactoryBot.define do
   factory :location do
-    latitude 1.5
-    longitude 1.5
-    address_1 "MyString"
-    address_2 "MyString"
-    county "MyString"
-    city "MyString"
-    state "MyString"
-    neighbourhood "MyString"
-    postal_code "MyString"
-    country "MyString"
+    latitude { Faker::Number.between(36.540759, 39.466012) }
+    longitude  { Faker::Number.between(-83.675395, -75.166435) }
+    address_1 { Faker::Address.street_address }
+    address_2 ""
+    county "Washington"
+    city "Washington"
+    state { %w[DC MD VA].sample }
+    neighbourhood { Faker::Address.community }
+    postal_code { Faker::Address.zip_code }
+    country ""
   end
 end

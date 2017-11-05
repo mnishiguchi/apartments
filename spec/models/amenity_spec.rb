@@ -13,5 +13,20 @@
 require "rails_helper"
 
 RSpec.describe Amenity, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  describe "ORM" do
+    it "has correct columns" do
+      should have_db_column(:identifier)
+      should have_db_column(:title)
+      should have_db_column(:tags)
+    end
+  end
+
+  it "has correct associations" do
+    should have_many(:apartments)
+    should have_many(:floorplans)
+  end
+
+  it "is valid" do
+    expect(create(:amenity)).to be_valid
+  end
 end

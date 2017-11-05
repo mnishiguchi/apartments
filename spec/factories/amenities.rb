@@ -11,10 +11,23 @@
 #
 
 FactoryBot.define do
+  amenities = ["air-conditioning",
+               "washer-dryer",
+               "dishwasher",
+               "parking",
+               "fitness-center",
+               "wheelchair-accessible",
+               "pool",
+               "furnished",
+               "elevator",
+               "washer-dryer-hookup",
+               "laundry-facilities"]
+
   factory :amenity do
-    title "MyString"
-    symbol "MyString"
-    description "MyText"
-    tags "MyString"
+    sequence :identifier do |n|
+      amenities[n % amenities.size] + "-#{n}"
+    end
+    title { identifier }
+    tags { [] }
   end
 end

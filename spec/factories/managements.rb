@@ -14,10 +14,10 @@
 
 FactoryBot.define do
   factory :management do
-    name "MyString"
-    email "MyString"
-    identifier "MyString"
-    url "MyString"
-    description "MyText"
+    name { Faker::Company.name }
+    email { Faker::Internet.safe_email }
+    identifier ""
+    url { Faker::Internet.url }
+    description { Faker::Hacker.say_something_smart }
   end
 end

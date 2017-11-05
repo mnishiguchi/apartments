@@ -24,5 +24,30 @@
 require "rails_helper"
 
 RSpec.describe Floorplan, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  describe "ORM" do
+    it "has correct columns" do
+      should have_db_column(:name)
+      should have_db_column(:identifier)
+      should have_db_column(:image_url)
+      should have_db_column(:description)
+      should have_db_column(:availabitity_url)
+      should have_db_column(:bathroom_count)
+      should have_db_column(:bedroom_count)
+      should have_db_column(:rent_min)
+      should have_db_column(:rent_max)
+      should have_db_column(:sqft_min)
+      should have_db_column(:sqft_max)
+      should have_db_column(:unit_count_total)
+      should have_db_column(:unit_count_available)
+    end
+  end
+
+  it "has correct associations" do
+    should belong_to(:apartment)
+    should have_many(:amenities)
+  end
+
+  it "is valid" do
+    expect(create(:floorplan)).to be_valid
+  end
 end

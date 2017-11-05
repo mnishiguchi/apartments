@@ -3,6 +3,7 @@
 # Table name: locations
 #
 #  id            :integer          not null, primary key
+#  layer         :string
 #  latitude      :decimal(, )
 #  longitude     :decimal(, )
 #  address_1     :string
