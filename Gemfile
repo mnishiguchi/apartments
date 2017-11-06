@@ -45,13 +45,12 @@ gem "jquery-rails"
 # HTTP
 gem "faraday"
 
-# Run any code in parallel Processes
-gem "parallel"
-
 # Admin dashboard
 gem "administrate"
 
 gem "geocoder"
+gem "ruby-progressbar"
+gem "faker"
 
 group :development, :test do
   gem "capybara", "~> 2.13"
@@ -60,7 +59,6 @@ group :development, :test do
   gem "database_cleaner"
   gem "dotenv-rails"
   gem "factory_bot_rails"
-  gem "faker"
   gem "guard-rspec", require: false
   gem "pry-byebug"
   gem "pry-rails"

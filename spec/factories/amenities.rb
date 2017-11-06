@@ -25,7 +25,7 @@ FactoryBot.define do
 
   factory :amenity do
     sequence :identifier do |n|
-      amenities[n % amenities.size] + "-#{n}"
+      amenities[n]
     end
     title { identifier }
     tags { [] }

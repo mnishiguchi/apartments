@@ -32,5 +32,6 @@ FactoryBot.define do
         saturday: { open_time: "10 AM", close_time: "5 PM" }
       }
     end
+    management
   end
 end

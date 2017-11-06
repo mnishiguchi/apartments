@@ -42,6 +42,9 @@ class Location < ApplicationRecord
       obj.country = geo.country_code
       obj.latitude = geo.latitude
       obj.longitude = geo.longitude
+      obj.label = geo.data.dig("properties", "label")
+      obj.bbox = geo.data["bbox"]
+      obj.data = geo.data
 
       # Mapzen uses British spelling vs Geocoder gem American.
       if geo.layer == "neighborhood"
@@ -54,14 +57,20 @@ class Location < ApplicationRecord
     end
   end
 
-  validates :city, presence: true
+  before_validation :abbreviate_state, if: ->(obj) { obj.state && obj.state.length > 2 }
+  before_validation :set_washington, if: ->(obj) { obj.state == "DC" && obj.city.blank? }
+
   validates :state, presence: true
+  validate do |obj|
+    # Some locations have only city; some only county.
+    if obj.city.blank? && obj.county.blank?
+      errors[:base] << "Please provide city or county"
+    end
+  end
 
   # Avoid unnecessary API requests to geocoding service.
   before_create :geocode, if: :should_geocode_before_create
   before_update :geocode, if: :should_geocode_before_update
-
-  before_save :abbreviate_state, if: ->(obj) { obj.state && obj.state.length > 2 }
 
   scope :neighbourhood_layer, -> { where(layer: "neighbourhood") }
   scope :address_layer, -> { where(layer: "address") }
@@ -87,5 +96,11 @@ class Location < ApplicationRecord
 
   def abbreviate_state
     self.state = Location::US_STATES.key(state)
+  end
+
+  def set_washington
+    # When address data is not found, fallback data sometimes does not provide city (locality).
+    # But it state is DC, we know the city is Washington.
+    self.city = "Washington"
   end
 end

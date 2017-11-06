@@ -41,5 +41,6 @@ FactoryBot.define do
     sqft_max { sqft_min + Faker::Number.between(0, 1000) }
     unit_count_total { Faker::Number.between(5, 10) }
     unit_count_available { unit_count_total - Faker::Number.between(0, 5) }
+    apartment
   end
 end

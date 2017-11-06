@@ -85,6 +85,7 @@ ActiveRecord::Schema.define(version: 20171028184443) do
   end
 
   create_table "locations", force: :cascade do |t|
+    t.string "label"
     t.string "layer"
     t.decimal "latitude"
     t.decimal "longitude"
@@ -96,6 +97,7 @@ ActiveRecord::Schema.define(version: 20171028184443) do
     t.string "neighbourhood"
     t.string "postal_code"
     t.string "country"
+    t.jsonb "data"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
